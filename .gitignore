@@ -1,1 +1,5 @@
 .vscode/settings.json
+*.exe
+*.txt
+temp.cpp
+CP Template.cpp
