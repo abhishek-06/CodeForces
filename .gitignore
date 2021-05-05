@@ -2,5 +2,6 @@
 *.exe
 *.txt
 temp.cpp
+b.cpp
 CP Template.cpp
 codathon.cpp
